@@ -31,6 +31,10 @@ The system allows users to manage books and library users, issue books, and retu
 - **Inheritance:** Not required for this mini project
 - **Polymorphism:** The project is structured using separate classes and objects
 
+## Task
+
+Java Developer Internship - Task 3: Library Management System 
+
 ## Project Structure
 
 ```text
